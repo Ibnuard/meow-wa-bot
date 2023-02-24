@@ -1,0 +1,6 @@
+2022/12/31-19:13:44.217 aa03 Reusing MANIFEST /Users/Dev/WA BOT/MeowBOT/.meow/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/12/31-19:13:44.217 aa03 Recovering log #3
+2022/12/31-19:13:44.220 aa03 Reusing old log /Users/Dev/WA BOT/MeowBOT/.meow/session/Default/Local Storage/leveldb/000003.log 
+2022/12/31-19:15:44.968 aa03 Level-0 table #5: started
+2022/12/31-19:15:44.990 aa03 Level-0 table #5: 25415 bytes OK
+2022/12/31-19:15:45.030 aa03 Delete type=0 #3

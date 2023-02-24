@@ -1,0 +1,37 @@
+2022/12/31-19:15:51.531 6603 Reusing MANIFEST /Users/Dev/WA BOT/MeowBOT/.meow/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/31-19:15:51.532 6603 Recovering log #528
+2022/12/31-19:15:51.568 6603 Reusing old log /Users/Dev/WA BOT/MeowBOT/.meow/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000528.log 
+2022/12/31-19:16:02.923 ef03 Level-0 table #548: started
+2022/12/31-19:16:02.993 ef03 Level-0 table #548: 1268089 bytes OK
+2022/12/31-19:16:03.035 ef03 Delete type=0 #528
+2022/12/31-19:16:04.226 6603 Compacting 1@0 + 0@1 files
+2022/12/31-19:16:04.288 6603 Generated table #549@0: 18565 keys, 581202 bytes
+2022/12/31-19:16:04.308 6603 Generated table #550@0: 1340 keys, 25564 bytes
+2022/12/31-19:16:04.308 6603 Compacted 1@0 + 0@1 files => 606766 bytes
+2022/12/31-19:16:04.352 6603 compacted to: files[ 0 2 14 0 0 0 0 ]
+2022/12/31-19:16:04.354 6603 Delete type=2 #548
+2022/12/31-19:16:05.020 8b03 Compacting 1@1 + 10@2 files
+2022/12/31-19:16:05.124 8b03 Generated table #551@1: 30475 keys, 2253855 bytes
+2022/12/31-19:16:05.199 8b03 Generated table #552@1: 26599 keys, 2192223 bytes
+2022/12/31-19:16:05.270 8b03 Generated table #553@1: 3094 keys, 2155004 bytes
+2022/12/31-19:16:05.329 8b03 Generated table #554@1: 2758 keys, 2151956 bytes
+2022/12/31-19:16:05.402 8b03 Generated table #555@1: 2238 keys, 2149885 bytes
+2022/12/31-19:16:05.488 8b03 Generated table #556@1: 28828 keys, 2257070 bytes
+2022/12/31-19:16:05.575 8b03 Generated table #557@1: 21835 keys, 2235582 bytes
+2022/12/31-19:16:05.635 8b03 Generated table #558@1: 8671 keys, 2131302 bytes
+2022/12/31-19:16:05.752 8b03 Generated table #559@1: 71455 keys, 2212164 bytes
+2022/12/31-19:16:05.863 8b03 Generated table #560@1: 106193 keys, 2255989 bytes
+2022/12/31-19:16:05.914 8b03 Generated table #561@1: 17179 keys, 367863 bytes
+2022/12/31-19:16:05.914 8b03 Compacted 1@1 + 10@2 files => 22362893 bytes
+2022/12/31-19:16:05.953 8b03 compacted to: files[ 0 1 15 0 0 0 0 ]
+2022/12/31-19:16:05.954 8b03 Delete type=2 #539
+2022/12/31-19:16:05.954 8b03 Delete type=2 #538
+2022/12/31-19:16:05.954 8b03 Delete type=2 #549
+2022/12/31-19:16:05.954 8b03 Delete type=2 #541
+2022/12/31-19:16:05.954 8b03 Delete type=2 #540
+2022/12/31-19:16:05.954 8b03 Delete type=2 #533
+2022/12/31-19:16:05.954 8b03 Delete type=2 #532
+2022/12/31-19:16:05.954 8b03 Delete type=2 #535
+2022/12/31-19:16:05.955 8b03 Delete type=2 #534
+2022/12/31-19:16:05.955 8b03 Delete type=2 #536
+2022/12/31-19:16:05.955 8b03 Delete type=2 #537
